@@ -24,3 +24,6 @@ Short day. Didn't accomplished what planned, but still played with some bootstra
 
 ### R1D7
 Went through little bit of Flask. Spend a lot of time resolving something which was just a cached css file.
+
+### R1D8
+Found out I didn't update the github log for all those days. Also tinkered with some Flask,readed the docs, and made a simple rooting for the html i have. Also made some templates using Jinja2. Designed a part of the main page block.
